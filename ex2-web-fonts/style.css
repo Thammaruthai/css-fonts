@@ -1,1 +1,12 @@
 /* Start coding here */
+
+/* import and named the 2005_iannnnnCPU.ttf font as iannnnnCPU(2005)  */
+@font-face {
+  font-family: "iannnnnCPU(2005)";
+  src: url("./fonts/2005_iannnnnCPU.ttf");
+}
+
+/*use font in body*/
+body {
+  font-family: "iannnnnCPU(2005)";
+}
